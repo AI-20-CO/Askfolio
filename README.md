@@ -2,20 +2,20 @@
 
 Ask me about myself, about my skills, about my achievements.
 
-## 🚀 Portfolio Website
+## Portfolio Website
 
 A modern, interactive portfolio website built with Next.js 15, featuring smooth animations, dark/light theme, and a beautiful UI.
 
-## ✨ Features
+## Features
 
-- 🎨 **Dark/Light Theme** - Seamless theme switching with custom color schemes
-- 🎭 **Smooth Animations** - Framer Motion powered scroll animations
-- 💫 **Interactive UI** - Custom fluid cursor and engaging interactions
-- 📱 **Fully Responsive** - Optimized for all device sizes
-- ⚡ **Fast Performance** - Built with Next.js 15 and Turbopack
-- 🎯 **Type-Safe** - Written in TypeScript
+-  **Dark/Light Theme** - Seamless theme switching with custom color schemes
+-  **Smooth Animations** - Framer Motion powered scroll animations
+-  **Interactive UI** - Custom fluid cursor and engaging interactions
+-  **Fully Responsive** - Optimized for all device sizes
+-  **Fast Performance** - Built with Next.js 15 and Turbopack
+-  **Type-Safe** - Written in TypeScript
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** Next.js 15.4.6
 - **Language:** TypeScript
@@ -23,7 +23,7 @@ A modern, interactive portfolio website built with Next.js 15, featuring smooth 
 - **Animations:** Framer Motion
 - **Font:** Inter (Google Fonts)
 
-## 🏃 Getting Started
+##  Getting Started
 
 First, install dependencies:
 
@@ -53,7 +53,7 @@ portfolio/
 └── package.json
 ```
 
-## 🎯 Sections
+##  Sections
 
 - **Hero** - Landing section with animated text
 - **About** - Personal information and background
@@ -62,11 +62,11 @@ portfolio/
 - **Projects** - Portfolio projects gallery
 - **Contact** - Contact information and links
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License.
 
-## 👤 Author
+##  Author
 
 **Ayaan Izhar**
 - Portfolio: [Your Website URL]
