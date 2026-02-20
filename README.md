@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Askfolio
 
-## Getting Started
+Ask me about myself, about my skills, about my achievements.
 
-First, run the development server:
+## 🚀 Portfolio Website
+
+A modern, interactive portfolio website built with Next.js 15, featuring smooth animations, dark/light theme, and a beautiful UI.
+
+## ✨ Features
+
+- 🎨 **Dark/Light Theme** - Seamless theme switching with custom color schemes
+- 🎭 **Smooth Animations** - Framer Motion powered scroll animations
+- 💫 **Interactive UI** - Custom fluid cursor and engaging interactions
+- 📱 **Fully Responsive** - Optimized for all device sizes
+- ⚡ **Fast Performance** - Built with Next.js 15 and Turbopack
+- 🎯 **Type-Safe** - Written in TypeScript
+
+## 🛠️ Tech Stack
+
+- **Framework:** Next.js 15.4.6
+- **Language:** TypeScript
+- **Styling:** CSS-in-JS with Framer Motion
+- **Animations:** Framer Motion
+- **Font:** Inter (Google Fonts)
+
+## 🏃 Getting Started
+
+First, install dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📂 Project Structure
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+portfolio/
+├── src/
+│   ├── app/              # Next.js app directory
+│   ├── components/       # React components
+│   ├── context/          # React context (Theme)
+│   ├── hooks/            # Custom hooks
+│   └── utils/            # Utility functions
+├── public/               # Static assets
+└── package.json
+```
 
-## Learn More
+## 🎯 Sections
 
-To learn more about Next.js, take a look at the following resources:
+- **Hero** - Landing section with animated text
+- **About** - Personal information and background
+- **Skills** - Technical skills showcase
+- **Experience** - Work experience timeline
+- **Projects** - Portfolio projects gallery
+- **Contact** - Contact information and links
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📝 License
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+This project is licensed under the MIT License.
 
-## Deploy on Vercel
+## 👤 Author
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+**Ayaan Izhar**
+- Portfolio: [Your Website URL]
+- GitHub: [@AI-20-CO](https://github.com/AI-20-CO)
+- LinkedIn: [ayaan-izhar](https://linkedin.com/in/ayaan-izhar)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
